@@ -74,7 +74,7 @@ These datasets were used to calculate player stats, team standings, and season i
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Screenshot 2026-03-14 155816.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
